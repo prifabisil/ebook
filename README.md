@@ -11,4 +11,4 @@
 - [Copilot](https://copilot.microsoft.com/images/create)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-
+## ⚠️Observação: não foi possível utilizar a versão gratuita do MidJourney
